@@ -1,4 +1,4 @@
-# uts-pti
+Link GitHub : https://github.com/kafkaraf/uts-pti
 
 Kelompok 4
 Anggota Kelompok :
